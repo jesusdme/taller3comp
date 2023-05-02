@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">taller3comp</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="prefs_file">com.example.taller3comp.PREFERENCE_FILE_KEY</string>
+
+</resources>

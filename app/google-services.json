@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "711713284226",
+    "project_id": "white-rigging-275319",
+    "storage_bucket": "white-rigging-275319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711713284226:android:b6961c052ef0548415d49b",
+        "android_client_info": {
+          "package_name": "com.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711713284226-sf750uhgog2j3cm0otueg9etbhig939k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUtiWkvYOdFaTLrbnC-VZzUPo1VeBwXNg"
+        },
+        {
+          "current_key": "AIzaSyCq7j73idw3bU4viGqpHoRf0SaA6zqhUVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711713284226-o0q1ps8vofq1bt2m8lvtm72f6r5cqvmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711713284226:android:4fd95c2e9b979d8115d49b",
+        "android_client_info": {
+          "package_name": "com.example.taller3comp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711713284226-sf750uhgog2j3cm0otueg9etbhig939k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUtiWkvYOdFaTLrbnC-VZzUPo1VeBwXNg"
+        },
+        {
+          "current_key": "AIzaSyCq7j73idw3bU4viGqpHoRf0SaA6zqhUVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711713284226-o0q1ps8vofq1bt2m8lvtm72f6r5cqvmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711713284226:android:21976cafd12e4e7a15d49b",
+        "android_client_info": {
+          "package_name": "com.example.taller_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711713284226-sf750uhgog2j3cm0otueg9etbhig939k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUtiWkvYOdFaTLrbnC-VZzUPo1VeBwXNg"
+        },
+        {
+          "current_key": "AIzaSyCq7j73idw3bU4viGqpHoRf0SaA6zqhUVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711713284226-o0q1ps8vofq1bt2m8lvtm72f6r5cqvmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
